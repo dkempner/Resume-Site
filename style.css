@@ -224,6 +224,10 @@ section:last-child {
   float: right;
 }
 
+li {
+  list-style-position: inside;
+}
+
 .keySkills {
   margin-bottom: 20px;
   font-size: 1em;
